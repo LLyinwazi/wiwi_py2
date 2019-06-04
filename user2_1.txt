@@ -3,3 +3,5 @@ user 2:  I want to create a conflict
 user 2:  After solve conflict.
 
 user 1 : crash from user 1
+
+user2 : this time I modify first...
